@@ -5,11 +5,11 @@ A small library that rolls a classic dice : 1 to 6.
 
 ## Installation
 
-  `npm install @bdavidxyz/roll-dice`
+  `npm install @bdavidxyz/rolldice`
 
 ## Usage
 
-    var rollDice = require('@bdavidxyz/roll-dice');
+    var rollDice = require('@bdavidxyz/rolldice');
 
     var rolled = rollDice();
 
